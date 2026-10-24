@@ -66,4 +66,44 @@ public sealed class ProductRepository
 
         return reserved;
     }
+
+    public async Task ReleaseStockAsync(int productId, int qty, CancellationToken ct)
+    {
+        if (qty <= 0)
+        {
+            throw new ArgumentOutOfRangeException(nameof(qty), "Quantity must be greater than zero.");
+        }
+
+        Log.Info("ProductRepository -> Opening connection for stock release...");
+        await Task.Delay(200, ct);
+        Log.Info($"ProductRepository -> Beginning stock transaction for Product #{productId}...");
+        await Task.Delay(100, ct);
+        Log.Info($"ProductRepository -> Updating stock for Product #{productId}...");
+        await Task.Delay(400, ct);
+        Log.Info("ProductRepository -> Committing stock transaction...");
+        await Task.Delay(200, ct);
+
+        bool released = false;
+        await _store.UpdateAsync<Product>(DataFiles.Products, products =>
+        {
+            Product? product = products.FirstOrDefault(p => p.Id == productId);
+            if (product is null)
+            {
+                return products;
+            }
+
+            product.StockQuantity += qty;
+            released = true;
+            return products;
+        }, ct);
+
+        if (released)
+        {
+            Log.Success($"ProductRepository -> Released {qty} unit(s) of Product #{productId}.");
+        }
+        else
+        {
+            Log.Error($"ProductRepository -> Cannot release stock: Product #{productId} not found.");
+        }
+    }
 }
