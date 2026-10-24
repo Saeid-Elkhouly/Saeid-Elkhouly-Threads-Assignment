@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Laptop",
     "price": 1200,
-    "stockQuantity": 7,
+    "stockQuantity": 8,
     "weightKg": 2.2
   },
   {
@@ -38,21 +38,21 @@
     "id": 6,
     "name": "Headphones",
     "price": 150,
-    "stockQuantity": 9,
+    "stockQuantity": 10,
     "weightKg": 0.3
   },
   {
     "id": 7,
     "name": "27\u0022 Monitor",
     "price": 350,
-    "stockQuantity": 4,
+    "stockQuantity": 5,
     "weightKg": 5.0
   },
   {
     "id": 8,
     "name": "Webcam",
     "price": 70,
-    "stockQuantity": 16,
+    "stockQuantity": 15,
     "weightKg": 0.2
   }
 ]

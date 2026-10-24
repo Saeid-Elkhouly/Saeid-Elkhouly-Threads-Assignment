@@ -1,6 +1,7 @@
 ﻿
 using OrderProcessingSystem.Phase1;
 using OrderProcessingSystem.Phase2;
+using OrderProcessingSystem.Phase3;
 using OrderProcessingSystem.Shared.Storage;
 
 namespace OrderProcessingSystem;
@@ -13,8 +14,11 @@ internal static class Program
        // Phase1Runner runner = new(store);
 
        // await runner.RunAsync(CancellationToken.None);
-          Phase2Runner runner = new(store);
+       // Phase2Runner runner = new(store);
 
+       // await runner.RunAsync(CancellationToken.None);
+
+        Phase3Runner runner = new(store);
         await runner.RunAsync(CancellationToken.None);
     }
 }
