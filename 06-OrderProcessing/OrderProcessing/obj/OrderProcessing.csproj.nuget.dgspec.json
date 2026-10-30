@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj": {}
+    "c:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj": {
+    "c:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+        "projectUniqueName": "c:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
         "projectName": "OrderProcessing",
-        "projectPath": "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+        "projectPath": "c:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
         "packagesPath": "C:\\Users\\mosae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\obj\\",
+        "outputPath": "c:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\06-OrderProcessing\\OrderProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VSShared\\NuGetPackages"

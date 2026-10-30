@@ -1,0 +1,15 @@
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\bin\Debug\net9.0\InvoiceExport.exe
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\bin\Debug\net9.0\InvoiceExport.deps.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\bin\Debug\net9.0\InvoiceExport.runtimeconfig.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\bin\Debug\net9.0\InvoiceExport.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\bin\Debug\net9.0\InvoiceExport.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.AssemblyInfoInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.AssemblyInfo.cs
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.csproj.CoreCompileInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.sourcelink.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\refint\InvoiceExport.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\InvoiceExport.genruntimeconfig.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\01-InvoiceExport\InvoiceExport\obj\Debug\net9.0\ref\InvoiceExport.dll

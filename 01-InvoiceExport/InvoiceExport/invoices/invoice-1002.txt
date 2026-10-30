@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1002
+Restaurant: Koshary El Tahrir
+Customer:   Ali Kamal <ali@example.com>
+Total:      $180.50

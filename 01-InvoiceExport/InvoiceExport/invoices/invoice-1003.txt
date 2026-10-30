@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1003
+Restaurant: Hawawshi House
+Customer:   Sara Nabil <sara@example.com>
+Total:      $95.00

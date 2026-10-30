@@ -1,0 +1,15 @@
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.exe
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.deps.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.runtimeconfig.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\bin\Debug\net9.0\ViewsAndEmails.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfoInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.AssemblyInfo.cs
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.csproj.CoreCompileInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.sourcelink.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\refint\ViewsAndEmails.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ViewsAndEmails.genruntimeconfig.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\05-ViewsAndEmails\ViewsAndEmails\obj\Debug\net9.0\ref\ViewsAndEmails.dll
