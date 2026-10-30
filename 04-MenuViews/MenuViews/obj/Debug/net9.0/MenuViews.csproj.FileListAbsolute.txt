@@ -1,0 +1,15 @@
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.exe
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.deps.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.runtimeconfig.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\bin\Debug\net9.0\MenuViews.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.AssemblyInfoInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.AssemblyInfo.cs
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.csproj.CoreCompileInputs.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.sourcelink.json
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\refint\MenuViews.dll
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.pdb
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\MenuViews.genruntimeconfig.cache
+C:\Users\mosae\OneDrive\Desktop\Simulation\Assignments\Saeid-Elkhouly-Threads-Assignment\04-MenuViews\MenuViews\obj\Debug\net9.0\ref\MenuViews.dll

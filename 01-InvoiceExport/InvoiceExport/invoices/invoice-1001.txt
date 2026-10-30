@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1001
+Restaurant: Zooba
+Customer:   Mona Hassan <mona@example.com>
+Total:      $240.00

@@ -1,0 +1,6 @@
+SwiftBite Invoice
+-----------------
+Order:      1005
+Restaurant: Fattah Street
+Customer:   Omar Fathy <omar@example.com>
+Total:      $150.00

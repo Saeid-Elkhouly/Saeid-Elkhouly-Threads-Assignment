@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7f4TUK1tYFM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mosae\\OneDrive\\Desktop\\Simulation\\Assignments\\Saeid-Elkhouly-Threads-Assignment\\02-TableBooking\\TableBooking\\TableBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mosae\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\mosae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\mosae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\mosae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
